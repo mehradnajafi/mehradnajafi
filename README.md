@@ -26,14 +26,6 @@ I am a Computer Engineering student and a passionate Cloud Security Enthusiast. 
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehradnajafi&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&text_color=777&icon_color=0078D4" alt="Mehrad's GitHub Stats" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
